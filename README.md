@@ -17,7 +17,7 @@
 ## Second task
 
 - faire le pull du code pour avoir acces a mes commentaire 
-
+- creer une nouvelle branche a partir du main develop-resp
 - Rendre le header responsive (tu peux utiliser bootstrap ou alors le grid system, ou encore les attribut flex , pour des raison d'apprentissage je te conseille de faire les 3 entetes differents la documentation est disponible)
 
 - ouvrir un pull request avec des messages de commit qui expliquent clairement ce que tu as fais
